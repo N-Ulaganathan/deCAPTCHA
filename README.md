@@ -1,3 +1,4 @@
 # deCAPTCHA
-White Paper
-please refer decaptcha.pdf for details.
+White Paper :
+
+please refer deCaptcha.pdf for details.
